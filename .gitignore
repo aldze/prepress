@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Движок ИИ-апскейла: 58 МБ платформенного бинарника.
+# Ставится скриптом tools/install_realesrgan.sh в Application Support.
+tools/realesrgan/
+
+# Промежуточные файлы сборки иконок (пересоздаются из *-1024.png)
+droplet/icon.iconset/
+droplet/presspdf.iconset/
+
+# Логи и отчёты создаются рядом с макетами, но на всякий случай
+prepress_logs/

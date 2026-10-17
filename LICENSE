@@ -1,0 +1,34 @@
+Copyright (c) 2026 Alexander Dzegilenok. All rights reserved.
+
+This repository is published for reference only.
+
+You may view and read the source code in this repository on GitHub.
+
+You may NOT, without prior written permission from the copyright holder:
+
+  - use, run or deploy the software, in whole or in part;
+  - copy, reproduce or redistribute it, in source or binary form;
+  - modify it, merge it into other works or create derivative works;
+  - sublicense or sell it, or use it to provide a service to others.
+
+Forking this repository on GitHub, as permitted by the GitHub Terms of
+Service, grants no rights beyond those listed above.
+
+To request permission, contact the copyright holder through GitHub:
+https://github.com/aldze
+
+THIRD-PARTY COMPONENTS
+
+The following files are not covered by this notice and remain under their
+own licenses:
+
+  - tools/vision/models/selfie_multiclass.mlpackage - converted from
+    MediaPipe Selfie Multiclass Segmentation by Google; see
+    tools/vision/models/README.md for its license terms.
+  - profiles/*.icc - ISO Coated v2 ICC profiles by the European Color
+    Initiative (ECI), distributed under the ECI's terms.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR ITS USE.
